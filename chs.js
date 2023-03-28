@@ -157,7 +157,7 @@ var cnItems = {
     "maxitems": "最大物品",
     "maybe fixed broken counter": "也许修复坏了的柜台",
     "maybe fixed unlimited enemie fight": "也许修复了无限的敌人战斗",
-    "megacrit": "超级暴击",
+    "megacrit": "终级暴击",
     "More Enemies": "更多敌人",
     "Number of times you've finished the game": "你完成游戏的次数",
     "Ogre": "食人魔",
