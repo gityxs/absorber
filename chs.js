@@ -101,7 +101,7 @@ var cnItems = {
     "dmg": "伤害",
     "dmg = (dmg * crit) * 2": "伤害 = (伤害 * 暴击) * 2",
     "reflect / 100": "反射 / 100",
-    "dodge": "躲闪",
+    "dodge": "闪避",
     "dodge = dodge": "闪避=闪避",
     "double": "双倍的",
     "DRAG": "拖",
