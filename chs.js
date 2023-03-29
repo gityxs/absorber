@@ -360,7 +360,7 @@ var cnItems = {
     "Adds 2% poison resistance": "增加 2% 毒抗",
     "Adds 2% reflect": "增加 2% 反射",
     "Adds 2% resurrect": "增加 2% 复活",
-    "Adds 2% silence": "增加 2% 静音",
+    "Adds 2% silence": "增加 2% 沉默",
     "Adds 2% stun": "增加 2% 眩晕",
     "Adds 2% supercrit": "增加 2% 超级暴击",
     "Adds 5% bleed": "增加 5% 流血",
