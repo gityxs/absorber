@@ -743,6 +743,7 @@ var cnRegReplace = new Map([
     [/^Adds ([\d\.,]+)\% double$/, '增加 $1% 伤害翻倍'],
     [/^killed in ([\d\.,]+) seconds$/, '在 $1 秒内被杀死'],
     [/^([\d\.]+)e([\d\.,]+) points$/, '$1e$2 点数'],
+    [/^([\d\.]+) bleeding$/, '$1 流血'],
     [/^([\d\.]+) poison$/, '$1 毒'],
     [/^([\d\.]+) fire$/, '$1 火'],
     [/^([\d\.]+) elves$/, '$1 精灵'],
