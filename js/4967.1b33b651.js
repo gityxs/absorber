@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkabsorber"]=globalThis["webpackChunkabsorber"]||[]).push([[4967],{4967:s=>{s.exports=JSON.parse('["poison","fire","stun","slow","silence","rot","bleed","bury","stim","invert","disarm","ward"]')}}]);
