@@ -1,0 +1,2 @@
+"use strict";(globalThis["webpackChunkabsorber"]=globalThis["webpackChunkabsorber"]||[]).push([[5212],{5212:(r,e,n)=>{n.r(e),n.d(e,{default:()=>l});var s=n(6252),b=n(3577);const o=["innerHTML"];function t(r,e,n,t,a,c){return(0,s.wg)(),(0,s.iD)("div",{class:(0,b.C_)(n.obj.type),innerHTML:n.obj.text},null,10,o)}const a={props:{obj:Object}};var c=n(3744);const i=(0,c.Z)(a,[["render",t]]),l=i}}]);
+//# sourceMappingURL=5212.03c3586a.js.map
